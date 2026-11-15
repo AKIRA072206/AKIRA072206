@@ -31,6 +31,17 @@ Vivo entre **San Felipe (Yaracuy)** y **Barquisimeto (Lara)**, trabajo en remoto
 
 ---
 
+## `$ git log --author="carlos" --oneline`
+
+| Año | Rol | Organización | Impacto |
+|---|---|---|---|
+| **2025** | Arquitecto de Software & Diseñador UI/UX | **INSAI** — SICIC-INSAI 2.0 | MERE, UML y prototipos en Figma; CRUD en PHP sobre bases relacionales; **−40%** en tiempo de registro; documentación técnica que estandarizó el onboarding |
+| **2024** | Analista & Desarrollador Backend | **Mercado Municipal de Independencia** | Levantamiento de requerimientos y lógica de procesamiento; consultas optimizadas para cargas críticas |
+| **2023** | Desarrollador Junior | **Fundacite Yaracuy** | Sistema de gestión de cursos: matrícula y administración académica automatizadas |
+| **2022** | Ponente técnico & Soporte | **Fundacite Yaracuy** | Taller de mantenimiento de hardware a más de 50 participantes |
+
+---
+
 ## `$ cat profile.yaml`
 
 ```yaml
@@ -49,64 +60,49 @@ linkedin:     /in/carlos-amaya-337683446
 
 ## `$ ls ./stack`
 
-**▸ Desarrollo**
+<div align="center">
 
-<img src="https://img.shields.io/badge/PHP-0a1628?style=for-the-badge&logo=php&logoColor=3b82f6" alt="PHP"/>
-<img src="https://img.shields.io/badge/Laravel-0a1628?style=for-the-badge&logo=laravel&logoColor=3b82f6" alt="Laravel"/>
-<img src="https://img.shields.io/badge/JavaScript-0a1628?style=for-the-badge&logo=javascript&logoColor=3b82f6" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-0a1628?style=for-the-badge&logo=html5&logoColor=3b82f6" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-0a1628?style=for-the-badge&logo=css&logoColor=3b82f6" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Node.js-0a1628?style=for-the-badge&logo=nodedotjs&logoColor=3b82f6" alt="Node.js"/>
-<img src="https://img.shields.io/badge/React-0a1628?style=for-the-badge&logo=react&logoColor=3b82f6" alt="React"/>
-<img src="https://img.shields.io/badge/Python-0a1628?style=for-the-badge&logo=python&logoColor=3b82f6" alt="Python"/>
-<img src="https://img.shields.io/badge/FastAPI-0a1628?style=for-the-badge&logo=fastapi&logoColor=3b82f6" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/TypeScript-0a1628?style=for-the-badge&logo=typescript&logoColor=3b82f6" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Vite-0a1628?style=for-the-badge&logo=vite&logoColor=3b82f6" alt="Vite"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,ts,vite,react,nodejs,html,css,js,postgres,mysql,git,github,githubactions,vercel,linux,figma,kali,bash&theme=dark&perline=11" alt="stack"/>
 
-**▸ Datos & Arquitectura**
-
-<img src="https://img.shields.io/badge/SQL-0a1628?style=for-the-badge&logo=mysql&logoColor=3b82f6" alt="SQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0a1628?style=for-the-badge&logo=postgresql&logoColor=3b82f6" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MERE-0a1628?style=for-the-badge&logo=diagramsdotnet&logoColor=3b82f6" alt="MERE"/>
-<img src="https://img.shields.io/badge/UML-0a1628?style=for-the-badge&logo=uml&logoColor=3b82f6" alt="UML"/>
-<img src="https://img.shields.io/badge/Mermaid.js-0a1628?style=for-the-badge&logo=mermaid&logoColor=3b82f6" alt="Mermaid"/>
+</div>
 
 **▸ IA & Agentes**
 
-<img src="https://img.shields.io/badge/Claude-0a1628?style=for-the-badge&logo=anthropic&logoColor=3b82f6" alt="Claude"/>
-<img src="https://img.shields.io/badge/Cursor-0a1628?style=for-the-badge&logo=cursor&logoColor=3b82f6" alt="Cursor"/>
-<img src="https://img.shields.io/badge/OpenCode-0a1628?style=for-the-badge&logo=opencode&logoColor=3b82f6" alt="OpenCode"/>
-<img src="https://img.shields.io/badge/Cline-0a1628?style=for-the-badge&logo=cline&logoColor=3b82f6" alt="Cline"/>
-<img src="https://img.shields.io/badge/Ollama-0a1628?style=for-the-badge&logo=ollama&logoColor=3b82f6" alt="Ollama"/>
-<img src="https://img.shields.io/badge/NotebookLM-0a1628?style=for-the-badge&logo=googlegemini&logoColor=3b82f6" alt="NotebookLM"/>
+<img src="https://img.shields.io/badge/Claude-0a1628?style=flat-square&logo=anthropic&logoColor=3b82f6" alt="Claude"/>
+<img src="https://img.shields.io/badge/Cursor-0a1628?style=flat-square&logo=cursor&logoColor=3b82f6" alt="Cursor"/>
+<img src="https://img.shields.io/badge/OpenCode-0a1628?style=flat-square&logo=opencode&logoColor=3b82f6" alt="OpenCode"/>
+<img src="https://img.shields.io/badge/Cline-0a1628?style=flat-square&logo=cline&logoColor=3b82f6" alt="Cline"/>
+<img src="https://img.shields.io/badge/Ollama-0a1628?style=flat-square&logo=ollama&logoColor=3b82f6" alt="Ollama"/>
+<img src="https://img.shields.io/badge/NotebookLM-0a1628?style=flat-square&logo=googlegemini&logoColor=3b82f6" alt="NotebookLM"/>
+<img src="https://img.shields.io/badge/Agent%20Engineering-0a1628?style=flat-square&logo=probot&logoColor=3b82f6" alt="Agent Engineering"/>
+<img src="https://img.shields.io/badge/MCP-0a1628?style=flat-square&logo=modelcontextprotocol&logoColor=3b82f6" alt="MCP"/>
 
-**▸ Agent Engineering**
+**▸ Arquitectura & Gestión**
 
-<img src="https://img.shields.io/badge/AGENT%20ENGINEERING-0a1628?style=for-the-badge&logo=probot&logoColor=3b82f6" alt="Agent Engineering"/>
-<img src="https://img.shields.io/badge/AGENTES%20PERSONALIZADOS-0a1628?style=for-the-badge&logo=anthropic&logoColor=3b82f6" alt="Agentes personalizados"/>
-<img src="https://img.shields.io/badge/MCP-0a1628?style=for-the-badge&logo=modelcontextprotocol&logoColor=3b82f6" alt="MCP"/>
-<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-0a1628?style=for-the-badge&logo=googlegemini&logoColor=3b82f6" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/MERE-0a1628?style=flat-square&logo=diagramsdotnet&logoColor=3b82f6" alt="MERE"/>
+<img src="https://img.shields.io/badge/UML-0a1628?style=flat-square&logo=uml&logoColor=3b82f6" alt="UML"/>
+<img src="https://img.shields.io/badge/Mermaid.js-0a1628?style=flat-square&logo=mermaid&logoColor=3b82f6" alt="Mermaid"/>
+<img src="https://img.shields.io/badge/Scrum-0a1628?style=flat-square&logo=scrumalliance&logoColor=3b82f6" alt="Scrum"/>
+<img src="https://img.shields.io/badge/Miro-0a1628?style=flat-square&logo=miro&logoColor=3b82f6" alt="Miro"/>
+<img src="https://img.shields.io/badge/Linear-0a1628?style=flat-square&logo=linear&logoColor=3b82f6" alt="Linear"/>
+<img src="https://img.shields.io/badge/Nmap-0a1628?style=flat-square&logo=kalilinux&logoColor=3b82f6" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Virtualizaci%C3%B3n-0a1628?style=flat-square&logo=virtualbox&logoColor=3b82f6" alt="Virtualización"/>
 
-**▸ Diseño & Gestión**
+---
 
-<img src="https://img.shields.io/badge/Figma-0a1628?style=for-the-badge&logo=figma&logoColor=3b82f6" alt="Figma"/>
-<img src="https://img.shields.io/badge/Scrum-0a1628?style=for-the-badge&logo=scrumalliance&logoColor=3b82f6" alt="Scrum"/>
-<img src="https://img.shields.io/badge/Miro-0a1628?style=for-the-badge&logo=miro&logoColor=3b82f6" alt="Miro"/>
-<img src="https://img.shields.io/badge/Linear-0a1628?style=for-the-badge&logo=linear&logoColor=3b82f6" alt="Linear"/>
+## `$ cat arquitectura.mmd`
 
-**▸ DevOps & Herramientas**
-
-<img src="https://img.shields.io/badge/Git-0a1628?style=for-the-badge&logo=git&logoColor=3b82f6" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-0a1628?style=for-the-badge&logo=github&logoColor=3b82f6" alt="GitHub"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-0a1628?style=for-the-badge&logo=githubactions&logoColor=3b82f6" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Vercel-0a1628?style=for-the-badge&logo=vercel&logoColor=3b82f6" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Linux-0a1628?style=for-the-badge&logo=linux&logoColor=3b82f6" alt="Linux"/>
-
-**▸ Seguridad**
-
-<img src="https://img.shields.io/badge/Kali%20Linux-0a1628?style=for-the-badge&logo=kalilinux&logoColor=3b82f6" alt="Kali Linux"/>
-<img src="https://img.shields.io/badge/Nmap-0a1628?style=for-the-badge&logo=kalilinux&logoColor=3b82f6" alt="Nmap"/>
-<img src="https://img.shields.io/badge/Virtualizaci%C3%B3n-0a1628?style=for-the-badge&logo=virtualbox&logoColor=3b82f6" alt="Virtualización"/>
+```mermaid
+flowchart LR
+  A[Requerimientos] --> B[MERE · UML]
+  B --> C[Prototipos Figma]
+  C --> D[Backend<br/>Laravel · FastAPI]
+  D --> E[(PostgreSQL · MySQL)]
+  D --> F[Frontend<br/>React · Vite]
+  E --> G[QA · Documentación]
+  F --> G
+  G --> H[Despliegue<br/>Vercel · CI/CD]
+```
 
 ---
 
