@@ -100,28 +100,54 @@ linkedin:     /in/carlos-amaya-337683446
 
 ## `$ ls ./projects`
 
-**▸ sisfit-gym**  ·  `saas · privado`  ·  demo bajo solicitud
-
-> Plataforma multi-tenant para gestión de gimnasios: membresías, cobros, roles y reportes por sede.
-> Arquitectura completa del modelo de datos y del panel administrativo.
-
-`Laravel 13` `Filament v5` `PostgreSQL` `Multi-tenant`
-
----
-
-**▸ insai-zoosanitary-mer**  ·  `institucional`  ·  [`repo ↗`](https://github.com/AKIRA072206/insai-zoosanitary-mer)
-
-> Modelo Entidad-Relación del sistema zoosanitario SICIC-INSAI: diagramación UML, MERE y una visualización interactiva del modelo para el equipo de campo.
-
-`TypeScript` `MERE` `UML` `Documentación`
-
----
-
-**▸ foro-tecnologias-emergentes**  ·  `académico`  ·  [`repo ↗`](https://github.com/AKIRA072206/foro-tecnologias-emergentes)
-
-> Foro de tecnologías emergentes con API propia: publicación de hilos, autenticación y despliegue continuo en Vercel.
-
-`Node` `JavaScript` `UX/UI`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>▸ sisfit-gym</h3>
+      <p><code>saas · privado</code> · demo bajo solicitud</p>
+      <p>Plataforma multi-tenant para gestión de gimnasios: membresías, cobros, roles y reportes por sede. Arquitectura completa del modelo de datos y del panel administrativo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel%2013-0a1628?style=flat-square&logo=laravel&logoColor=3b82f6" alt="Laravel"/>
+        <img src="https://img.shields.io/badge/Filament%20v5-0a1628?style=flat-square&logo=laravel&logoColor=3b82f6" alt="Filament"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-0a1628?style=flat-square&logo=postgresql&logoColor=3b82f6" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Multi--tenant-0a1628?style=flat-square&logoColor=3b82f6" alt="Multi-tenant"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>▸ insai-zoosanitary-mer</h3>
+      <p><code>institucional</code> · <a href="https://github.com/AKIRA072206/insai-zoosanitary-mer">repo ↗</a></p>
+      <p>Modelo Entidad-Relación del sistema zoosanitario SICIC-INSAI: diagramación UML, MERE y una visualización interactiva del modelo para el equipo de campo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-0a1628?style=flat-square&logo=typescript&logoColor=3b82f6" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/MERE-0a1628?style=flat-square&logoColor=3b82f6" alt="MERE"/>
+        <img src="https://img.shields.io/badge/UML-0a1628?style=flat-square&logoColor=3b82f6" alt="UML"/>
+        <img src="https://img.shields.io/badge/Documentaci%C3%B3n-0a1628?style=flat-square&logoColor=3b82f6" alt="Documentación"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>▸ foro-tecnologias-emergentes</h3>
+      <p><code>académico</code> · <a href="https://github.com/AKIRA072206/foro-tecnologias-emergentes">repo ↗</a></p>
+      <p>Foro de tecnologías emergentes con API propia: publicación de hilos, autenticación y despliegue continuo en Vercel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-0a1628?style=flat-square&logo=nodedotjs&logoColor=3b82f6" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/JavaScript-0a1628?style=flat-square&logo=javascript&logoColor=3b82f6" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/UX%2FUI-0a1628?style=flat-square&logo=figma&logoColor=3b82f6" alt="UX/UI"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>▸ Más repositorios</h3>
+      <p><code>archivo</code> · <a href="https://github.com/AKIRA072206?tab=repositories">ver todos ↗</a></p>
+      <p>Prácticas, prototipos y experimentos de arquitectura de datos, automatización con IA y automatización del hogar.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0a1628?style=flat-square&logo=python&logoColor=3b82f6" alt="Python"/>
+        <img src="https://img.shields.io/badge/Automatizaci%C3%B3n-0a1628?style=flat-square&logoColor=3b82f6" alt="Automatización"/>
+        <img src="https://img.shields.io/badge/IA-0a1628?style=flat-square&logo=anthropic&logoColor=3b82f6" alt="IA"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -157,7 +183,23 @@ linkedin:     /in/carlos-amaya-337683446
 
 [![Racha](https://streak-stats.demolab.com?user=AKIRA072206&theme=github-dark-blue&hide_border=true&locale=es)](https://github.com/AKIRA072206)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKIRA072206/AKIRA072206/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKIRA072206/AKIRA072206/output/github-snake.svg" />
+  <img alt="Contribuciones de AKIRA" src="https://raw.githubusercontent.com/AKIRA072206/AKIRA072206/output/github-snake.svg" />
+</picture>
+
 </div>
+
+---
+
+## `$ watch -n 1 ./learning.log`
+
+- 🤖 **Agent Engineering** — agentes personalizados, MCP y orquestación con OpenCode y Cline
+- 🧠 **LLMs y RAG** — recuperación de contexto, evaluación de respuestas, prompting estructurado
+- 🏗️ **Arquitectura de datos** — sistemas multi-tenant, normalización y modelado MERE
+- ☁️ **Despliegue y automatización** — CI/CD, GitHub Actions y entornos serverless
+- 🔐 **Ciberseguridad práctica** — Kali Linux, reconocimiento con Nmap y entornos virtualizados
 
 ---
 
