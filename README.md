@@ -1,60 +1,106 @@
-# AKIRA
+<div align="center">
 
-**Product Owner and full-stack developer.** I take systems from requirement to production: functional analysis, data modelling with MERE and UML, then the implementation in Laravel, FastAPI or Node.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d1117&height=200&section=header&text=AKIRA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=PRODUCT%20OWNER%20%C2%B7%20SYSTEMS%20ARCHITECT&descSize=13&descAlignY=62&descColor=4f8ef7&animation=fadeIn" width="100%" alt="AKIRA — Product Owner · Systems Architect"/>
 
-I work in Spanish and English, remotely from Venezuela, while finishing a Computer Engineering degree.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=2000&color=4F8EF7&center=true&vCenter=true&width=700&height=28&lines=Product+Owner+%C2%B7+Systems+Architect;Laravel+%26+FastAPI+%26+PostgreSQL;Analisis+funcional+%C2%B7+Documentacion+tecnica" alt="typing"/>
+
+</div>
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/carlosaogustoa%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=4f8ef7)](mailto:carlosaogustoa@gmail.com)
+[![GitHub](https://img.shields.io/badge/AKIRA072206-0d1117?style=flat-square&logo=github&logoColor=4f8ef7)](https://github.com/AKIRA072206)
+[![Disponible](https://img.shields.io/badge/open%20to%20work-remoto-0d1117?style=flat-square&logo=clockify&logoColor=4f8ef7)](#-disponibilidad)
+
+</div>
+
+---
+
+## `$ whoami`
+
+Llevo un sistema desde el levantamiento de requerimientos hasta producción: análisis funcional, modelo entidad-relación (MERE) y UML, documentación técnica, y después la implementación en **Laravel**, **FastAPI** o **Node**.
+
+Trabajo en español e inglés, en remoto desde Venezuela, mientras termino Ingeniería en Informática.
+
+---
+
+## `$ cat profile.yaml`
 
 ```yaml
-profile:
-  role:        Product Owner / Full-Stack Developer
-  focus:       Functional analysis, data architecture, technical documentation
-  education:   Computer Engineering, final year
-  location:    Venezuela, remote
-  languages:   Spanish (native), English (technical)
-  open_to:     Freelance projects and full-time roles
+nombre:       AKIRA
+rol:          Product Owner · Systems Architect | Full-Stack Developer
+especialidad: Análisis funcional · Arquitectura de datos · Documentación técnica
+formacion:    Ingeniería en Informática (último año)
+idiomas:      Español (nativo) · Inglés (técnico)
+modalidad:    Remoto · Freelance y tiempo completo
 ```
 
-## Systems
+---
 
-| System | What it does | My role | Stack |
-| --- | --- | --- | --- |
-| **SisFit Gym** *(private)* | Multi-tenant SaaS for gyms: memberships, payments, cash movements, access control | Product owner, data model, backend | Laravel 13, Filament, PostgreSQL |
-| [Forum on Emerging Technologies](https://github.com/AKIRA072206/foro-tecnologias-emergentes) | Event platform: registration, live attendance and AI-written digital certificates | Full-stack | Node 22, Express, Neon Postgres |
-| [INSAI zoosanitary MER](https://github.com/AKIRA072206/insai-zoosanitary-mer) | Interactive entity-relationship model of the national animal-health inspection system | Functional analysis, MERE, UML, frontend | React 19, TypeScript, Vite |
+## `$ ls ./stack`
 
-SisFit Gym is a private repository. I can walk you through the architecture on a call.
+<div align="center">
 
-## How I work
+<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,postgres,mysql,css,js,react,git,github&theme=dark&perline=6" alt="stack"/>
 
-1. Scope the requirement with the people who will actually use the system.
-2. Model the data and the flows before writing any code.
-3. Deliver with acceptance criteria and functional tests.
-4. Leave documentation that outlives the project.
+</div>
 
-## Tools
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,python,fastapi,postgres,js,react,git&theme=dark">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,postgres,js,react,git&theme=light" alt="PHP, Laravel, Python, FastAPI, PostgreSQL, JavaScript, React, Git">
-</picture>
+## `$ ls ./projects`
 
-## Contact
+**▸ sisfit-gym**  ·  `saas · privado`  ·  demo bajo solicitud
 
-[carlosaogustoa@gmail.com](mailto:carlosaogustoa@gmail.com)
+> Plataforma multi-tenant para gestión de gimnasios: membresías, cobros, roles y reportes por sede.
+> Arquitectura completa del modelo de datos y del panel administrativo.
 
-[github.com/AKIRA072206](https://github.com/AKIRA072206)
+`Laravel 13` `Filament v5` `PostgreSQL` `Multi-tenant`
 
-<details>
-<summary>Versión en español</summary>
+---
 
-<br>
+**▸ insai-zoosanitary-mer**  ·  `institucional`  ·  [`repo ↗`](https://github.com/AKIRA072206/insai-zoosanitary-mer)
 
-Product Owner y desarrollador full-stack. Analizo el requerimiento, modelo los datos (MERE, UML) y construyo el sistema con Laravel, FastAPI o Node. Trabajo remoto desde Venezuela, en español e inglés, y estoy abierto a proyectos freelance y posiciones full-time.
+> Modelo Entidad-Relación del sistema zoosanitario SICIC-INSAI: diagramación UML, MERE y una visualización interactiva del modelo para el equipo de campo.
 
-- **SisFit Gym** (privado): SaaS multi-tenant para gimnasios, con Laravel 13 y PostgreSQL.
-- **Foro de Tecnologías Emergentes**: registro, asistencia en vivo y certificados redactados con IA, sobre Node y Neon.
-- **INSAI MER zoosanitario**: modelo entidad-relación interactivo del sistema de inspección de campo, con React y TypeScript.
+`TypeScript` `MERE` `UML` `Documentación`
 
-Contacto: [carlosaogustoa@gmail.com](mailto:carlosaogustoa@gmail.com)
+---
 
-</details>
+**▸ foro-tecnologias-emergentes**  ·  `académico`  ·  [`repo ↗`](https://github.com/AKIRA072206/foro-tecnologias-emergentes)
+
+> Foro de tecnologías emergentes con API propia: publicación de hilos, autenticación y despliegue continuo en Vercel.
+
+`Node` `JavaScript` `UX/UI`
+
+---
+
+## `$ tail -f activity.log`
+
+<div align="center">
+
+[![Actividad](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKIRA072206&theme=github_dark)](https://github.com/AKIRA072206)
+
+[![Racha](https://streak-stats.demolab.com?user=AKIRA072206&theme=github-dark-blue&hide_border=true&locale=es)](https://github.com/AKIRA072206)
+
+</div>
+
+---
+
+## `$ cat disponibilidad.md`
+
+**Disponible** para proyectos freelance y posiciones full-time como **Product Owner**, **Analista Funcional** o **Desarrollador Full-Stack**.
+
+Abierto a equipos donde el análisis, la documentación y el código vayan juntos.
+
+---
+
+<div align="center">
+
+`$ ping akira`
+
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=4f8ef7)](mailto:carlosaogustoa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=4f8ef7)](https://github.com/AKIRA072206)
+
+<sub>Product Owner · Systems Architect — AKIRA</sub>
+
+</div>
