@@ -3,7 +3,7 @@
 <a href="https://github.com/AKIRA072206"><img src="https://komarev.com/ghpvc/?username=AKIRA072206&label=Visitas&color=3b82f6&style=flat" alt="Visitas al perfil"/></a>
 <a href="https://github.com/AKIRA072206?tab=followers"><img src="https://img.shields.io/github/followers/AKIRA072206?label=Seguidores&style=flat&logo=github&color=3b82f6&labelColor=0a1628" alt="Seguidores"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d1b2a,100:0a1628&height=200&section=header&text=AKIRA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=SYSTEMS%20ARCHITECT%20%C2%B7%20TECHNICAL%20PRODUCT%20OWNER&descSize=13&descAlignY=62&descColor=3b82f6&animation=fadeIn" width="100%" alt="AKIRA — Systems Architect · Technical Product Owner"/>
+<img src="https://raw.githubusercontent.com/AKIRA072206/AKIRA072206/main/assets/banner.svg" width="100%" alt="AKIRA — Systems Architect · Technical Product Owner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=2000&color=3B82F6&center=true&vCenter=true&width=720&height=28&lines=Systems+Architect+%C2%B7+Technical+Product+Owner;Laravel+%26+FastAPI+%26+PostgreSQL;Modelado+de+datos+%C2%B7+MERE+%C2%B7+UML" alt="typing"/>
 
@@ -58,6 +58,10 @@ linkedin:     /in/carlos-amaya-337683446
 <img src="https://img.shields.io/badge/CSS3-0a1628?style=for-the-badge&logo=css&logoColor=3b82f6" alt="CSS3"/>
 <img src="https://img.shields.io/badge/Node.js-0a1628?style=for-the-badge&logo=nodedotjs&logoColor=3b82f6" alt="Node.js"/>
 <img src="https://img.shields.io/badge/React-0a1628?style=for-the-badge&logo=react&logoColor=3b82f6" alt="React"/>
+<img src="https://img.shields.io/badge/Python-0a1628?style=for-the-badge&logo=python&logoColor=3b82f6" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-0a1628?style=for-the-badge&logo=fastapi&logoColor=3b82f6" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/TypeScript-0a1628?style=for-the-badge&logo=typescript&logoColor=3b82f6" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Vite-0a1628?style=for-the-badge&logo=vite&logoColor=3b82f6" alt="Vite"/>
 
 **▸ Datos & Arquitectura**
 
@@ -89,6 +93,14 @@ linkedin:     /in/carlos-amaya-337683446
 <img src="https://img.shields.io/badge/Scrum-0a1628?style=for-the-badge&logo=scrumalliance&logoColor=3b82f6" alt="Scrum"/>
 <img src="https://img.shields.io/badge/Miro-0a1628?style=for-the-badge&logo=miro&logoColor=3b82f6" alt="Miro"/>
 <img src="https://img.shields.io/badge/Linear-0a1628?style=for-the-badge&logo=linear&logoColor=3b82f6" alt="Linear"/>
+
+**▸ DevOps & Herramientas**
+
+<img src="https://img.shields.io/badge/Git-0a1628?style=for-the-badge&logo=git&logoColor=3b82f6" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-0a1628?style=for-the-badge&logo=github&logoColor=3b82f6" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-0a1628?style=for-the-badge&logo=githubactions&logoColor=3b82f6" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Vercel-0a1628?style=for-the-badge&logo=vercel&logoColor=3b82f6" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Linux-0a1628?style=for-the-badge&logo=linux&logoColor=3b82f6" alt="Linux"/>
 
 **▸ Seguridad**
 
